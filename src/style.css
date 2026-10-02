@@ -1,0 +1,4 @@
+body { max-width: 44rem; margin: 12vh auto; padding: 0 1.5rem; font: 18px/1.6 system-ui, sans-serif; background: #101820; color: #edf5f1; }
+h1 { font-size: 3rem; line-height: 1.1; }
+code { overflow-wrap: anywhere; }
+.status, code, a { color: #a5efc3; }
