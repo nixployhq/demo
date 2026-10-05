@@ -24,9 +24,9 @@ async fn home() -> Result<impl View> {
             </head>
             <body>
                 <p class="status">"HTTP service is running"</p>
-                <h1>"Hello from Topcoat."</h1>
+                <h1>"Hello from Topcoat and Nixploy"</h1>
                 <p>"Built from Git and deployed by Nixploy."</p>
-                <p>"Demo version: "<strong>"1"</strong></p>
+                <p>"Demo version: "<strong>"2"</strong></p>
                 <p>"Deployed commit:"<br><code>(revision)</code></p>
                 <p>"Edit this page, commit, and push. Refresh after the next poll and build to see your update."</p>
                 <a href="https://github.com/nixployhq/demo">"View source on GitHub →"</a>
